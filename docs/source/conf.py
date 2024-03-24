@@ -11,8 +11,6 @@ version = 'main'
 
 # -- General configuration
 
-pip install recommonmark
-
 source_parsers = {
 '.md': 'recommonmark.parser.CommonMarkParser',
 }
