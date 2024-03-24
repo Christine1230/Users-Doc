@@ -9,8 +9,8 @@ test for users doc
 .. toctree::
    :maxdepth: 2
    
-   Users Doc/HOME/content
-   Users Doc/FOR USER/content
+   HOME/content
+   FOR USER/content
 
 Indices and tables
 ==================
