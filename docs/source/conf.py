@@ -11,6 +11,14 @@ version = 'main'
 
 # -- General configuration
 
+pip install recommonmark
+
+source_parsers = {
+'.md': 'recommonmark.parser.CommonMarkParser',
+}
+
+source_suffix = ['.rst', '.md']
+
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
@@ -43,8 +51,5 @@ latex_elements = {
     'preamble': '\\usepackage[UTF8]{ctex}\n',
 }
 
-source_parsers = {
-    '.md': 'recommonmark.parser.CommonMarkParser',
-}
 
-source_suffix = ['.rst', '.md']
+
