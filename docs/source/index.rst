@@ -12,9 +12,3 @@ test for users doc
    HOME
    FOR USER
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
