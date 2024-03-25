@@ -60,7 +60,7 @@ When using this website, users can register and log in to their account, then se
 
    Click 'Log in' to go to the login page. 
 
-   ![登录界面]
+   ![登录界面](https://github.com/Christine1230/test1/blob/f86c928962eb2bedb3bbfb001dcd453284bd0eb0/docs/source/image/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
 
 
    If user has previously registered an account, he can log in directly. If user doesn't have an account, he can click 'Sign Up' to register first. After logging in, user will be redirected back to the original page.
