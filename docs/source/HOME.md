@@ -23,7 +23,7 @@ With joint efforts of 20 geochemists, we have constructed a benchmark dataset in
 
 - Website Display
 
-![首页图片](./image/%E9%A6%96%E9%A1%B5%E5%9B%BE%E7%89%87.png)
+![首页图片](./source/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
 
 - The Point of Website
 
