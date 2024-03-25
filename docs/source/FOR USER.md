@@ -5,7 +5,7 @@
 
 ####  Capabilities
 
-![功能模块图](docs/source/image/功能模块图.png)
+![功能模块图](https://github.com/Christine1230/test1/blob/839c09b58bbfbb1428d2fd8d6f9a1ff6d8308fa5/docs/source/image/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97%E5%9B%BE.png)
 
 ##### Home
 
