@@ -22,7 +22,7 @@ With joint efforts of 20 geochemists, we have constructed a benchmark dataset in
 
 - Website Display
 
-![首页图片](docs/source/image/首页图片.png）
+![首页图片](docs/source/image/shouyetupian.png）
 - The Point of Website
 
 ![网站指南用途](docs/source/image/网站指南用途.png)
