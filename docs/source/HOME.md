@@ -19,23 +19,23 @@ With joint efforts of 20 geochemists, we have constructed a benchmark dataset in
 
 
 
-### Some figures
+### Related figures
 
 - Website Display
 
 ![首页图片](https://github.com/Christine1230/test1/blob/main/docs/source/image/%E9%A6%96%E9%A1%B5%E5%9B%BE%E7%89%87.png?raw=true)
 
-- The Point of Website
+- Website Structure
 
 ![网站指南用途](https://github.com/Christine1230/test1/blob/main/docs/source/image/%E7%BD%91%E7%AB%99%E6%8C%87%E5%8D%97%E7%94%A8%E9%80%94.png?raw=true
 )
 
 ### Related report
 
-1. Yang Lyu, J ZhangZhou, ZJU Earth Data Team. Bringing Data Clarify from Cyberinfrastructures: A Benchmark Database in High Temperature Geochemistry. Americal Geophysical Union Fall Meeting (AGU), 2023, San Francisco, United States. (Poster, in Person)
+1. Yang Lyu, J ZhangZhou, ZJU Earth Data Team. Bringing Data Clarify from Cyberinfrastructures: A Benchmark Database in High Temperature Geochemistry. Americal Geophysical Union Fall Meeting (AGU), 2023, San Francisco, United States. 
 
-2. Yang Lyu, J ZhangZhou. High temperature Geochemistry Database - high quality segmented domain database.Annual Meeting of Chinese Geoscience Union (CGU), 2023, Zhuhai, China. (Oral Presentation, in Chinese)
-3. Yang Lyu, J ZhangZhou. High temperature Geochemistry Database - high quality segmented domain database. The 7th Conference on Earth System Science (CESS), 2023, Shanghai, China. (Oral Presentation, in Chinese)
+2. Yang Lyu, J ZhangZhou. High temperature Geochemistry Database - high quality segmented domain database.Annual Meeting of Chinese Geoscience Union (CGU), 2023, Zhuhai, China. 
+3. Yang Lyu, J ZhangZhou. High temperature Geochemistry Database - high quality segmented domain database. The 7th Conference on Earth System Science (CESS), 2023, Shanghai, China.
 
 
 
