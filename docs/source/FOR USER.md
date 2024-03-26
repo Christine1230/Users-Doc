@@ -3,7 +3,6 @@
 
 ### Website
 
-#### 功能
 ![功能模块图](https://github.com/Christine1230/test1/blob/main/docs/source/image/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97%E5%9B%BE.png?raw=true
 )
 
@@ -39,13 +38,13 @@ In this page, We provide three templates for rock, mineral, Inclusion and experi
 
 We provides two comparative data sets before and after manual cleaning, which can be used to test the effect of data cleaning. In this page, here are the two files for Clinopyroxene mineral and Igneous rock comparison datasets respectively. Users can select the files they want to download.
 
-#### About US
+##### About US
 
-##### Team&Project
+###### Team&Project
 
 The introductions of project and the team. If users want to join us, this part also mentions the related issues.
 
-##### Contact Us
+###### Contact Us
 
 If users find that the data does not fit original literature, data missing from the sample, data template does not match and other problems during the use of this website,fill the form and feedback to us.
 
