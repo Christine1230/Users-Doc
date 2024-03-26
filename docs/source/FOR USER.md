@@ -107,7 +107,7 @@ When using this website, users can register and log in to their account, then se
 
 High T Geochemistry database mainly include natural rocks, natural minerals, natural inclusions and experimental synthetic samples which are formed in high temperature environment.Sample information includes sample age, rock property, mineral property, chemical composition, sampling location, geological environment and data source.
 
-If you are submitting data to this database, please place the data correctly in the template provided on this page:https://htgdb.deep-time.org/dataTemplate. Here, we provide three templates for rock, mineral/Inclusion and experiment sample respectively. Your uploaded data would be published on the website as the open source.
+If you are submitting data to this database, please place the data correctly in the template provided on this page:<https://htgdb.deep-time.org/dataTemplate>. Here, we provide three templates for rock, mineral/Inclusion and experiment sample respectively. Your uploaded data would be published on the website as the open source.
 
 ![数据模板](https://github.com/Christine1230/test1/blob/main/docs/source/image/%E6%95%B0%E6%8D%AE%E6%A8%A1%E6%9D%BF.png?raw=true)
 
@@ -117,10 +117,10 @@ If you are submitting data to this database, please place the data correctly in 
 
 If users find that the website does not work well with you, in the meantime, googling error messages cannot help. At that time please contact us and send the details of bug. Our experts are willing to solve the problems for you as soon as we can. 
 
-**Please send the email to contact: lyuyang1007@zju.edu.cn**
+**Please send the email to contact: <lyuyang1007@zju.edu.cn>**
 
 ### Advice
 
 If users find that the data does not fit original literature, data missing from the sample, data template does not match and other problems during the use of this website, click ‘About Us’-‘Contact Us' to fill the form and feedback to us.
 
-If users have any suggestions for website development, you can also contact us.Please send the email to contact: lyuyang1007@zju.edu.cn. Thank you!
+If users have any suggestions for website development, you can also contact us.Please send the email to contact: <lyuyang1007@zju.edu.cn>. Thank you!
