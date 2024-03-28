@@ -10,5 +10,5 @@ Users Doc
    :maxdepth: 2
    
    HOME
-   USER GUIDE
+   USER GUIDE(FOR USER)
 
