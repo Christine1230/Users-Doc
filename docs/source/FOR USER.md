@@ -1,7 +1,7 @@
 # FOR USER
 ## User Guide
 
-### Website
+### Website Intro
 
 ![功能模块图](https://github.com/Christine1230/test1/blob/main/docs/source/image/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97%E5%9B%BE.png?raw=true
 )
@@ -48,7 +48,7 @@ The introductions of project and the team. If users want to join us, this part a
 
 If users find that the data does not fit original literature, data missing from the sample, data template does not match and other problems during the use of this website,fill the form and feedback to us.
 
-#### Steps
+### Operating Steps
 
 When using this website, users can register and log in to their account, then search for the required information on the website, and then download the required information.
 
@@ -103,7 +103,7 @@ When using this website, users can register and log in to their account, then se
   ![专题数据结果](https://github.com/Christine1230/test1/blob/main/docs/source/image/%E4%B8%93%E9%A2%98%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%9C.png?raw=true
 )
 
-### Data Format
+### Data Templates
 
 High T Geochemistry database mainly include natural rocks, natural minerals, natural inclusions and experimental synthetic samples which are formed in high temperature environment.Sample information includes sample age, rock property, mineral property, chemical composition, sampling location, geological environment and data source.
 
