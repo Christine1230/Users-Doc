@@ -1,4 +1,4 @@
-# User Guide
+# USER GUIDE
 
 ## Website Intro
 
