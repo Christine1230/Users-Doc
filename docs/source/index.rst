@@ -1,3 +1,8 @@
+hide-toc: true
+ toc_float:
+      collapsed: false
+      smooth_scroll: false
+
 .. test for users doc documentation master file, created by
    sphinx-quickstart on Sun Mar 24 18:58:03 2024.
    You can adapt this file completely to your liking, but it should at least
@@ -5,10 +10,6 @@
 
 Users Doc
 ==============================================
-
-:start-after: <!-- start elevator-pitch -->
-:end-before: <!-- end elevator-pitch -->
-```
 
 .. toctree::
    :maxdepth: 6
