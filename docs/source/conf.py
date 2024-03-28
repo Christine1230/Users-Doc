@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'test for users doc'
+project = 'Users Doc'
 copyright = '2024 linuoer'
 author = 'Li Nuoer'
 
@@ -38,6 +38,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_theme_options = {
+    'navigation_depth': 6,
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
