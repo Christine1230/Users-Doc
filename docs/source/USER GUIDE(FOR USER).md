@@ -2,8 +2,7 @@
 
 ## Website Intro
 
-![功能模块图](https://github.com/Christine1230/test1/blob/main/docs/source/image/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97%E5%9B%BE.png?raw=true
-)
+![功能模块图](https://github.com/Christine1230/Users-Doc/blob/main/docs/source/image/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9D%97%E5%9B%BE.png?raw=true)
 
 #### Home
 
