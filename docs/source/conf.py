@@ -40,8 +40,11 @@ templates_path = ['_templates']
 import sphinx_pdj_theme
 html_theme = 'sphinx_pdj_theme'
 html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
+}
 
+html_logo = "docs/source/image/logo.png"
 
+]
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
