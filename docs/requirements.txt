@@ -4,3 +4,4 @@ recommonmark
 sphinx_markdown_tables
 image
 sphinx-pdj-theme
+invalid syntax
