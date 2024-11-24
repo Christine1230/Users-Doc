@@ -38,7 +38,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 import sphinx_pdj_theme
-html_theme = 'nature'
+html_theme = 'pyramid'
 html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
 
 # -- Options for EPUB output
