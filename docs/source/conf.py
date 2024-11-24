@@ -38,6 +38,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 import sphinx_pdj_theme
+pip install sphinx
+pip install sphinx_rtd_theme
+pip install recommonmark
 html_theme = 'sphinx_pdj_theme'
 html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
 
